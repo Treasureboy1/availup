@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mem-001",
+    "handle": "cryptoking",
+    "xId": "111222333",
+    "discordId": "cryptoking#1234",
+    "joinedAt": "2026-05-01T00:00:00.000Z",
+    "points": 150
+  },
+  {
+    "id": "mem-002",
+    "handle": "web3wizard",
+    "xId": "444555666",
+    "discordId": "web3wizard#5678",
+    "joinedAt": "2026-05-10T00:00:00.000Z",
+    "points": 120
+  },
+  {
+    "id": "mem-003",
+    "handle": "defi_dan",
+    "xId": "777888999",
+    "joinedAt": "2026-05-15T00:00:00.000Z",
+    "points": 90
+  },
+  {
+    "id": "mem-004",
+    "handle": "nft_ninja",
+    "discordId": "nftninja#9999",
+    "joinedAt": "2026-06-01T00:00:00.000Z",
+    "points": 60
+  },
+  {
+    "id": "mem-005",
+    "handle": "blockchainbob",
+    "joinedAt": "2026-06-05T00:00:00.000Z",
+    "points": 30
+  }
+]

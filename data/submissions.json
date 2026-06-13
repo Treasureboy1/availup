@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sub-001",
+    "taskId": "task-001",
+    "memberId": "mem-001",
+    "memberHandle": "cryptoking",
+    "proofUrl": "https://x.com/cryptoking/status/1234567891",
+    "submittedAt": "2026-06-02T10:00:00.000Z",
+    "status": "approved"
+  },
+  {
+    "id": "sub-002",
+    "taskId": "task-001",
+    "memberId": "mem-002",
+    "memberHandle": "web3wizard",
+    "proofUrl": "https://x.com/web3wizard/status/1234567892",
+    "submittedAt": "2026-06-02T11:00:00.000Z",
+    "status": "approved"
+  },
+  {
+    "id": "sub-003",
+    "taskId": "task-002",
+    "memberId": "mem-003",
+    "memberHandle": "defi_dan",
+    "proofUrl": "https://x.com/defi_dan/status/9876543211",
+    "submittedAt": "2026-06-06T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "sub-004",
+    "taskId": "task-002",
+    "memberId": "mem-004",
+    "memberHandle": "nft_ninja",
+    "submittedAt": "2026-06-06T09:30:00.000Z",
+    "status": "rejected"
+  }
+]

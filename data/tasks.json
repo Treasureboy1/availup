@@ -1,0 +1,28 @@
+[
+  {
+    "id": "task-001",
+    "title": "Support our launch announcement",
+    "tweetUrl": "https://x.com/example/status/1234567890",
+    "actions": ["Like", "Retweet"],
+    "discordChannelId": "1234567890",
+    "createdAt": "2026-06-01T10:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "task-002",
+    "title": "Community AMA thread",
+    "tweetUrl": "https://x.com/example/status/9876543210",
+    "actions": ["Like", "Comment", "Retweet"],
+    "createdAt": "2026-06-05T14:30:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "task-003",
+    "title": "Partnership announcement",
+    "tweetUrl": "https://x.com/example/status/1111111111",
+    "actions": ["Like", "Retweet", "Follow"],
+    "discordChannelId": "9876543210",
+    "createdAt": "2026-06-10T09:00:00.000Z",
+    "status": "completed"
+  }
+]
